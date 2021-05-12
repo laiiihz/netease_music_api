@@ -1,12 +1,10 @@
 name: netease_music_api
 description: A new Flutter package project.
 version: 0.0.1
-author:
-homepage:
+homepage: https://github.com/laiiihz/netease_music_api
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
-  flutter: ">=1.17.0"
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   flutter:
